@@ -44,7 +44,7 @@ This project focuses on analyzing pizza sales data using SQL to extract meaningf
 * Compared sales across different pizza categories
 * Calculated category-wise contribution to total revenue
 
-### 📉 Advanced Analytics
+# 📉 Advanced Analytics
 
 * **Revenue Contribution (%):** each category in total sales
 * **Cumulative Revenue:** Running total of revenue over time
@@ -52,14 +52,14 @@ This project focuses on analyzing pizza sales data using SQL to extract meaningf
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 * **SQL (Joins, Aggregations, Subqueries, Window Functions)
 * Relational Database (MySQL)
 
 ---
 
-## 🧠 Key SQL Concepts Used
+# 🧠 Key SQL Concepts Used
 
 * INNER JOIN
 * GROUP BY & ORDER BY
@@ -69,7 +69,7 @@ This project focuses on analyzing pizza sales data using SQL to extract meaningf
 
 ---
 
-## 📌 Business Value
+# 📌 Business Value
 
 This analysis provides actionable insights such as:
 
